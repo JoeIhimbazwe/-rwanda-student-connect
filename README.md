@@ -1,9 +1,9 @@
 # Rwanda Student Connect
 
-This is a student community website built using the Wix CMS.  
+This is a student community website built using the wordpress CMS.  
 It helps students across Rwanda share resources, explore events, ask questions, and stay connected.
 
-🌐 Live Site: [Visit the Website](https://ihimbazwejeff15.wixsite.com/rwanda-student-conne)
+🌐 Live Site: [Visit the Website](http://jeffkiz.kesug.com/)
 
 ## Features
 
@@ -15,5 +15,5 @@ It helps students across Rwanda share resources, explore events, ask questions, 
 
 ## Built With
 
-- CMS: Wix (https://wix.com)
+- CMS: wordpress (https://wordpress.com)
 
